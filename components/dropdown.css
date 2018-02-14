@@ -1,0 +1,8 @@
+dropdown.css
+.dropdown-menu {
+	box-shadow: none !important;
+}
+
+.dropdown.menu li {
+	opacity: 0.7 !important;
+}

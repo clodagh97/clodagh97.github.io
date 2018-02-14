@@ -1,0 +1,30 @@
+button.css
+.btn-medium {
+	border: 1px solid #E6E6E6;
+	border-radius: 30px;
+	padding: 15px 10px;
+	color: #CCCCCC
+	opacity: 0.8;
+}
+
+.btn-medium: hover {
+	color: #CCCCCC;
+	opacity: 1;
+	text-decoration: none;
+}
+
+.btn-twitter{
+	border-radius: 30px;
+	padding: 15px 10px;
+	color: #CCCCCC
+	opacity: 0.8;
+}
+
+.btn-twitter:hover {
+	border: 1px solid #E6E6E6;
+	border-radius: 30px;
+	padding: 15px 10px;
+	color: white
+	opacity: 0.8;
+}
+

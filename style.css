@@ -1,0 +1,76 @@
+body{
+  background: black);
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family: : 'Roboto', sans-serif;
+}
+h1{
+  font-family: : 'Roboto', sans-serif;
+  color: white;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: : 'Roboto', sans-serif;
+  color: #ff6633; 
+  font-weight: lighter;
+  font-size: 25px;
+  font-stretch: bold
+}
+a {
+  color: #D6B2BB;
+}
+a:hover {
+  text-decoration: none;
+  color: #3A4E48;
+
+
+
+
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://t4.ftcdn.net/jpg/01/17/19/23/240_F_117192342_GNWNabv3C37uE3koumA8Gzbw17GMWm1c.jpg");
+  background-size: 1350px 500px;
+  padding: 100px;
+  color: white ;
+  font-size: 100px
+  text-shadow: 1px 1px 5px black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#banner p {
+  color: white;
+  opacity: 1;
+  font-size: 45px;
+  text-shadow: 2px 1px 1px black;
+  font-weight: lighter;
+ font-family: "Times New Roman", Times, serif;
+ }
+
+
+#footer{
+   text-align: left;
+  padding: 30px;
+  background: black;
+ font-family: "Times New Roman", Times, serif;
+ color: white
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+
+
